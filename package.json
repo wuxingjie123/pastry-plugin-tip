@@ -1,7 +1,7 @@
 {
   "name": "pastry-plugin-tip",
   "version": "1.0.0",
-  "description": "pastry 插件描述",
+  "description": "this is a tip for ios",
   "cordova": {
     "id": "pastry-plugin-tip",
     "platforms": [
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pastryTeam/pastry-plugin-tip.git"
+    "url": "https://github.com/wuxingjie123/pastry-plugin-tip.git"
   },
   "keywords": [
     "tip"
   ],
-  "author": "author",
+  "author": "wuxingjie123",
   "license": "MIT"
 }
