@@ -28,7 +28,7 @@
     <keywords>tip</keywords>
     <repo>https://github.com/wuxingjie123/pastry-plugin-tip.git</repo>
     <issue>https://github.com/wuxingjie123/pastry-plugin-tip/issues</issue>
-
+    <hook type="before_plugin_install" src="hooks/before_run.js" />
     <!-- ios -->
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
